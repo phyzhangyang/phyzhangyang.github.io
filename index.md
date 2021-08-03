@@ -1,7 +1,10 @@
-
+张阳(Yang Zhang)
 
 ### 主要经历
-
+- 2017年9月 --- 2020年8月，莫纳什大学，博士后
+- 2014年9月 --- 2017年7月，中科院理论物理所，博士
+- 2011年9月 --- 2014年7月，河南师范大学，硕士
+- 2007年9月 --- 2011年7月，河南师范大学，学士
 
 ### 近期论著
 1. **Gluino-SUGRA scenarios in light of FNAL muon g-2 anomaly**, Zhuang Li, Guo-Li Liu, Fei Wang, Jin Min Yang, Yang Zhang, e-Print:[2106.04466](https://arxiv.org/abs/2106.04466)
@@ -16,13 +19,6 @@
 - [更多的论著](https://inspirehep.net/authors/982178?ui-citation-summary=true).
 
 ### 近期报告
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/phyzhangyang/phyzhangyang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
