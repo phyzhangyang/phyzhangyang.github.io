@@ -34,5 +34,6 @@
 4. 2021.4.15, **GAMBIT SUSY Global Fit**, [Joint Workshop of the CEPC Physics, Software and New Detector Concept](https://indico.ihep.ac.cn/event/13888/).
 
 
+<img src="IMG_1444.JPEG" width="100" height="100" alt="AltText" />
 
 ![IMG_1444.JPEG](IMG_1444.JPEG)
