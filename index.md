@@ -12,6 +12,7 @@
 
 ### 工具开发
 - [PhaseTracer](https://github.com/PhaseTracer/PhaseTracer)
+- [GAMBIT](https://github.com/GambitBSM)
 
 ### 近期论著
 1. **Gluino-SUGRA scenarios in light of FNAL muon g-2 anomaly**, Zhuang Li, Guo-Li Liu, Fei Wang, Jin Min Yang, Yang Zhang, e-Print:[2106.04466](https://arxiv.org/abs/2106.04466)
