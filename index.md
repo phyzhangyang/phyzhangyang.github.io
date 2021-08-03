@@ -1,4 +1,4 @@
-张阳(Yang Zhang)
+张阳
 
 ### 主要经历
 - 2020年9月 --- 至今，郑州大学
@@ -28,10 +28,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
 - Bulleted
 - List
 
@@ -42,5 +38,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
