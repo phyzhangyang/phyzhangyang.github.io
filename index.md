@@ -28,3 +28,6 @@
 
 ### 近期报告
 
+1. 2021.8.16, **ColliderBit-Solo: a new tool for reinterpreting LHC results for BSM**, [中国物理学会高能物理分会第十三届全国粒子物理学术会议](https://indico.ihep.ac.cn/event/10906/)
+2. 2021.7.19, **ColliderBit-Solo: a new tool for reinterpreting LHC results for BSM**, [第十五届TeV物理工作组学术研讨会](https://indico.ihep.ac.cn/event/14101/).
+
