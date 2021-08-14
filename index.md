@@ -29,6 +29,7 @@
 
 ### 近期报告
 
+1. 2021.8.24 **SUSY global fits with future colliders using GAMBIT**, [The XXVIII International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2021)](https://indico.cern.ch/event/875077/).
 1. 2021.8.17, **BSM program at the CEPC**, [中国物理学会高能物理分会第十三届全国粒子物理学术会议](https://indico.ihep.ac.cn/event/10906/).
 2. 2021.8.16, **ColliderBit-Solo: a new tool for reinterpreting LHC results for BSM**, [中国物理学会高能物理分会第十三届全国粒子物理学术会议](https://indico.ihep.ac.cn/event/10906/).
 3. 2021.7.22, **SUSY global fits with future colliders using GAMBIT**, [EF08: BSM: Model specific explorations Biweekly Meeting](https://indico.fnal.gov/event/50140/).
