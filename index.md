@@ -16,7 +16,7 @@
 
 ### 近期论著
 1. **Gluino-SUGRA scenarios in light of FNAL muon g-2 anomaly**, Zhuang Li, Guo-Li Liu, Fei Wang, Jin Min Yang, Yang Zhang, e-Print:[2106.04466](https://arxiv.org/abs/2106.04466)
-2. **Muon g−2 anomaly and mu-tau-philic Higgs doublet with a light CP-even component**, Hong-Xin Wang, Lei Wang, Yang Zhang, e-Print:[2104.03242](https://arxiv.org/abs/2104.03242).
+2. **Muon g−2 anomaly and mu-tau-philic Higgs doublet with a light CP-even component**, Hong-Xin Wang, Lei Wang, Yang Zhang, Eur.Phys.J.C 81 (2021) 11, 1007, e-Print:[2104.03242](https://arxiv.org/abs/2104.03242).
 3. **Lepton-specific inert two-Higgs-doublet model confronted with the new results for muon and electron g-2 anomalies and multi-lepton searches at the LHC**, Xiao-Fang Han, Tianjun Li, Hong-Xin Wang, Lei Wang, Yang Zhang, e-Print:[2104.03227](https://arxiv.org/abs/2104.03227).
 4. **GUT-scale constrained SUSY in light of new muon g-2 measurement**, Fei Wang, Lei Wu, Yang Xiao, Jin Min Yang, Yang Zhang, Nucl.Phys.B 970 (2021) 115486, e-Print:[2104.03262](https://arxiv.org/abs/2104.03262).
 5. **Dark matter, Z′, vector-like quark at the LHC and b→sμμ anomaly**, Wei Chao, Hongxin Wang, Lei Wang, Yang Zhang, Chin.Phys.C 45 (2021) 8, 083105, e-Print:[2102.07518](https://arxiv.org/abs/2102.07518)
