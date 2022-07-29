@@ -25,6 +25,7 @@
 - 国家自然科学基金委员会，青年科学基金项目，11305049，LHC和Higgs工厂上超对称Higgs物理的精确研究，2014年1月---2016年12月，22万，参加
 
 ### 近期论著
+(依照高能物理惯例，按姓氏排名)
 * **The Physics potential of the CEPC. Prepared for the US Snowmass Community Planning Exercise (Snowmass 2021)**, Huajie Cheng, Wen Han Chiu, Yaquan Fang, Yu Gao, Jiayin Gu, Gang Li, Tianjun Li, Zhijun Liang, Bo Liu, Jia Liu, Zhen Liu, Manqi Ruan, Jing Shu, Kechen Wang, Lian-Tao Wang, Ke-Pan Xie, Shuo Yang, Jiarong Yuan, Kaili Zhang, Mengchao Zhang, Yang Zhang, Xuai Zhuang, e-Print: [2205.08553](https://arxiv.org/abs/2205.08553)
 * **A joint explanation of W-mass and muon g-2 in 2HDM**, Xiao-Fang Han, Fei Wang, Lei Wang, Jin Min Yang, Yang Zhang, Chinese Physics C, e-Print: [2204.06505](https://arxiv.org/abs/2204.06505)
 * **Low energy SUSY confronted with new measurements of W-boson mass and muon g-2**, Jin Min Yang, Yang Zhang, Science Bulletin, 2022, 67(14): 1430–1436, e-Print: [2204.04202](https://arxiv.org/abs/2204.04202)
