@@ -1,7 +1,5 @@
-张阳
-
 ### 研究方向
-- 超出标准模型新物理唯象学和电弱相变
+理论物理，粒子物理，高能物理，超出标准模型新物理，对撞机唯象学，希格斯物理，电弱相变，暗物质，重子生成，引力波
 
 ### 主要经历
 - 2020年9月 --- 至今，郑州大学
@@ -13,6 +11,14 @@
 ### 工具开发
 - [PhaseTracer](https://github.com/PhaseTracer/PhaseTracer)
 - [GAMBIT](https://github.com/GambitBSM)
+- [EasyScan_HEP](https://github.com/phyzhangyang/EasyScan_HEP)
+
+### 科研项目
+- 国家自然科学基金青年科学基金项目，12105248，新物理模型中电弱相变的精确计算与相关唯象学研究，2022年1月---2024年12月，30万，主持
+- 郑州大学“青年拔尖人才”启动项目，2021年---2023年，50万，主持
+- 国家自然科学基金委员会，面上项目，11675242，超出标准模型的新物理唯象研究，2017年1月---2020年12月，68万元，参加
+- 国家自然科学基金委员会，面上项目，11575053，次最小超对称模型唯象学研究，2016年1月---2019年12月，56万元，参加
+- 国家自然科学基金委员会，青年科学基金项目，11305049，LHC和Higgs工厂上超对称Higgs物理的精确研究，2014年1月---2016年12月，22万，参加
 
 ### 近期论著
 * **The Physics potential of the CEPC. Prepared for the US Snowmass Community Planning Exercise (Snowmass 2021)**, Huajie Cheng, Wen Han Chiu, Yaquan Fang, Yu Gao, Jiayin Gu, Gang Li, Tianjun Li, Zhijun Liang, Bo Liu, Jia Liu, Zhen Liu, Manqi Ruan, Jing Shu, Kechen Wang, Lian-Tao Wang, Ke-Pan Xie, Shuo Yang, Jiarong Yuan, Kaili Zhang, Mengchao Zhang, Yang Zhang, Xuai Zhuang, e-Print: [2205.08553](https://arxiv.org/abs/2205.08553)
@@ -43,4 +49,23 @@
 * 2021.7.22, **SUSY global fits with future colliders using GAMBIT**, [EF08: BSM: Model specific explorations Biweekly Meeting](https://indico.fnal.gov/event/50140/).
 * 2021.7.19, **ColliderBit-Solo: a new tool for reinterpreting LHC results for BSM**, [第十五届TeV物理工作组学术研讨会](https://indico.ihep.ac.cn/event/14101/).
 * 2021.4.15, **GAMBIT SUSY Global Fit**, [Joint Workshop of the CEPC Physics, Software and New Detector Concept](https://indico.ihep.ac.cn/event/13888/).
+
+###  荣誉奖励
+- 中国科学院院长奖，2017年
+- 中国科学院院长特别奖，2017年
+- 博士研究生国家奖学金，2016年
+- 硕士研究生国家奖学金，2012年
+- 美国大学生数学建模竞赛一等奖(Meritorious Winner)，2010年
+- 全国大学生数学建模竞赛一等奖，2019年
+
+### 公共服务
+- GAMBIT合作组中ColliderBit组召集人，2020年2月---2021年11月
+- PRD、CPC审稿人
+- 2020级测控二班班主任
+
+### 担任课程
+-2021年秋：大学物理实验A(64课时)，大学物理实验B(48课时)
+-2021年春：规范场论(32课时)，规范场论II(国际生，32课时)
+
+
 
