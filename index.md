@@ -8,7 +8,7 @@
 - 2011年9月 --- 2014年7月，河南师范大学，硕士
 - 2007年9月 --- 2011年7月，河南师范大学，学士
 
-### 工具开发
+### 软件开发
 - [PhaseTracer](https://github.com/PhaseTracer/PhaseTracer)
 - [GAMBIT](https://github.com/GambitBSM)
 - [EasyScan_HEP](https://github.com/phyzhangyang/EasyScan_HEP)
