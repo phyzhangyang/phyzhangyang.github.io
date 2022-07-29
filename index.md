@@ -55,7 +55,6 @@ zhangyangphy@zzu.edu.cn
 * 2021.4.15, **GAMBIT SUSY Global Fit**, [Joint Workshop of the CEPC Physics, Software and New Detector Concept](https://indico.ihep.ac.cn/event/13888/).
 
 ###  荣誉奖励
-- 中国科学院院长奖，2017年
 - 中国科学院院长特别奖，2017年
 - 博士研究生国家奖学金，2016年
 - 硕士研究生国家奖学金，2012年
