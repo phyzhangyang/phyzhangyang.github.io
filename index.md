@@ -24,6 +24,7 @@
 
 ### 近期论著
 (依照高能物理惯例，按姓氏排名)
+* **Dilution of dark matter relic density in singlet extension models**, Yang Xiao, Jin Min Yang, Yang Zhang, e-Print:[2207.14519](https://arxiv.org/abs/2207.14519) 
 * **The Physics potential of the CEPC. Prepared for the US Snowmass Community Planning Exercise (Snowmass 2021)**, Huajie Cheng, Wen Han Chiu, Yaquan Fang, Yu Gao, Jiayin Gu, Gang Li, Tianjun Li, Zhijun Liang, Bo Liu, Jia Liu, Zhen Liu, Manqi Ruan, Jing Shu, Kechen Wang, Lian-Tao Wang, Ke-Pan Xie, Shuo Yang, Jiarong Yuan, Kaili Zhang, Mengchao Zhang, Yang Zhang, Xuai Zhuang, e-Print: [2205.08553](https://arxiv.org/abs/2205.08553)
 * **A joint explanation of W-mass and muon g-2 in 2HDM**, Xiao-Fang Han, Fei Wang, Lei Wang, Jin Min Yang, Yang Zhang, Chinese Physics C, e-Print: [2204.06505](https://arxiv.org/abs/2204.06505)
 * **Low energy SUSY confronted with new measurements of W-boson mass and muon g-2**, Jin Min Yang, Yang Zhang, Science Bulletin, 2022, 67(14): 1430–1436, e-Print: [2204.04202](https://arxiv.org/abs/2204.04202)
@@ -67,7 +68,7 @@
 
 ### 担任课程
 - 2021年秋：大学物理实验A(64课时)，大学物理实验B(48课时)
-- 2021年春：规范场论(32课时)，规范场论II(国际生，32课时)
+- 2022年春：规范场论(32课时)，规范场论II(国际生，32课时)
 
 ### 联系方式
 - zhangyangphy@zzu.edu.cn
