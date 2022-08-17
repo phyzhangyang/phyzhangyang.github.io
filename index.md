@@ -24,6 +24,7 @@
 
 ### 近期论著
 (依照高能物理惯例，按姓氏排名)
+* **How arbitrary are perturbative calculations of the electroweak phase transition?**, Peter Athron, Csaba Balazs, Andrew Fowlie, Lachlan Morris, Graham White, Yang Zhang, e-Print:[2208.01319](https://arxiv.org/abs/2208.01319)
 * **Dilution of dark matter relic density in singlet extension models**, Yang Xiao, Jin Min Yang, Yang Zhang, e-Print:[2207.14519](https://arxiv.org/abs/2207.14519) 
 * **The Physics potential of the CEPC. Prepared for the US Snowmass Community Planning Exercise (Snowmass 2021)**, Huajie Cheng, Wen Han Chiu, Yaquan Fang, Yu Gao, Jiayin Gu, Gang Li, Tianjun Li, Zhijun Liang, Bo Liu, Jia Liu, Zhen Liu, Manqi Ruan, Jing Shu, Kechen Wang, Lian-Tao Wang, Ke-Pan Xie, Shuo Yang, Jiarong Yuan, Kaili Zhang, Mengchao Zhang, Yang Zhang, Xuai Zhuang, e-Print: [2205.08553](https://arxiv.org/abs/2205.08553)
 * **A joint explanation of W-mass and muon g-2 in 2HDM**, Xiao-Fang Han, Fei Wang, Lei Wang, Jin Min Yang, Yang Zhang, Chinese Physics C, e-Print: [2204.06505](https://arxiv.org/abs/2204.06505)
@@ -44,7 +45,8 @@
 - [更多论著](https://inspirehep.net/authors/982178?ui-citation-summary=true).
 
 ### 近期报告
-* 2022.8.10 **How arbitrary are perturbative calculations of the electroweak phase transition?**, [中国物理学会高能物理分会第十一届全国会员代表大会暨学术年会](https://indico.ihep.ac.cn/event/16065/overview)
+* 2022.8.11 **电弱相变中有效势的构造**, 中国科学院理论物理所
+* 2022.8.9 **How arbitrary are perturbative calculations of the electroweak phase transition?**, [中国物理学会高能物理分会第十一届全国会员代表大会暨学术年会](https://indico.ihep.ac.cn/event/16065/contributions/114821/)
 * 2021.11.27 **BSM prospect at CEPC**, [The 7th China LHC Physics Workshop](https://indico.ihep.ac.cn/event/14560/session/8/contribution/220)
 * 2021.11.10 **SUSY global fits with future colliders using GAMBIT**, [The 2021 international workshop on the high energy Circular Electron-Positron Collider ](https://indico.ihep.ac.cn/event/14938/other-view?view=standard).
 * 2021.8.24 **SUSY global fits with future colliders using GAMBIT**, [The XXVIII International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2021)](https://indico.cern.ch/event/875077/).
