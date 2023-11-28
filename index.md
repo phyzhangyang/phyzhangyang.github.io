@@ -45,21 +45,21 @@
 - [更多论著](https://inspirehep.net/authors/982178?ui-citation-summary=true).
 
 ### 近期报告
-* 2023.12.30 **Dilution of DM relic density caused by electroweak first-order phase transition**[2023年紫金山暗物质研讨会](https://indico.ihep.ac.cn/event/20822/)
+* 2023.12.30 **Dilution of DM relic density caused by electroweak first-order phase transition**, [2023年紫金山暗物质研讨会](https://indico.ihep.ac.cn/event/20822/)
 * 2023.10.26 **SMEFT & Global Fits at CEPC**, [The 2023 international workshop on the high energy Circular Electron Positron Collider](https://indico.ihep.ac.cn/event/19316/contributions/143411/)
-* 2023。6.26 **轻子对撞机上离壳粒子的寻找**，河南师范大学
-* 2023.6.7 **New vacuum stability limit from cosmological history**, 河南大学
-* 2023.5.26 **New vacuum stability limit from cosmological history**, 河南省科学院
-* 2022.8.11 **电弱相变中有效势的构造**, 中国科学院理论物理所
-* 2022.8.9 **How arbitrary are perturbative calculations of the electroweak phase transition?**, [中国物理学会高能物理分会第十一届全国会员代表大会暨学术年会](https://indico.ihep.ac.cn/event/16065/contributions/114821/)
+* 2023.06.26 **轻子对撞机上离壳粒子的寻找**, 河南师范大学
+* 2023.06.07 **New vacuum stability limit from cosmological history**, 河南大学
+* 2023.05.26 **New vacuum stability limit from cosmological history**, 河南省科学院
+* 2022.08.11 **电弱相变中有效势的构造**, 中国科学院理论物理所
+* 2022.08.09 **How arbitrary are perturbative calculations of the electroweak phase transition?**, [中国物理学会高能物理分会第十一届全国会员代表大会暨学术年会](https://indico.ihep.ac.cn/event/16065/contributions/114821/)
 * 2021.11.27 **BSM prospect at CEPC**, [The 7th China LHC Physics Workshop](https://indico.ihep.ac.cn/event/14560/session/8/contribution/220)
 * 2021.11.10 **SUSY global fits with future colliders using GAMBIT**, [The 2021 international workshop on the high energy Circular Electron-Positron Collider ](https://indico.ihep.ac.cn/event/14938/other-view?view=standard).
-* 2021.8.24 **SUSY global fits with future colliders using GAMBIT**, [The XXVIII International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2021)](https://indico.cern.ch/event/875077/).
-* 2021.8.17, **BSM program at the CEPC**, [中国物理学会高能物理分会第十三届全国粒子物理学术会议](https://indico.ihep.ac.cn/event/10906/).
-* 2021.8.16, **ColliderBit-Solo: a new tool for reinterpreting LHC results for BSM**, [中国物理学会高能物理分会第十三届全国粒子物理学术会议](https://indico.ihep.ac.cn/event/10906/).
-* 2021.7.22, **SUSY global fits with future colliders using GAMBIT**, [EF08: BSM: Model specific explorations Biweekly Meeting](https://indico.fnal.gov/event/50140/).
-* 2021.7.19, **ColliderBit-Solo: a new tool for reinterpreting LHC results for BSM**, [第十五届TeV物理工作组学术研讨会](https://indico.ihep.ac.cn/event/14101/).
-* 2021.4.15, **GAMBIT SUSY Global Fit**, [Joint Workshop of the CEPC Physics, Software and New Detector Concept](https://indico.ihep.ac.cn/event/13888/).
+* 2021.08.24 **SUSY global fits with future colliders using GAMBIT**, [The XXVIII International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2021)](https://indico.cern.ch/event/875077/).
+* 2021.08.17, **BSM program at the CEPC**, [中国物理学会高能物理分会第十三届全国粒子物理学术会议](https://indico.ihep.ac.cn/event/10906/).
+* 2021.08.16, **ColliderBit-Solo: a new tool for reinterpreting LHC results for BSM**, [中国物理学会高能物理分会第十三届全国粒子物理学术会议](https://indico.ihep.ac.cn/event/10906/).
+* 2021.07.22, **SUSY global fits with future colliders using GAMBIT**, [EF08: BSM: Model specific explorations Biweekly Meeting](https://indico.fnal.gov/event/50140/).
+* 2021.07.19, **ColliderBit-Solo: a new tool for reinterpreting LHC results for BSM**, [第十五届TeV物理工作组学术研讨会](https://indico.ihep.ac.cn/event/14101/).
+* 2021.04.15, **GAMBIT SUSY Global Fit**, [Joint Workshop of the CEPC Physics, Software and New Detector Concept](https://indico.ihep.ac.cn/event/13888/).
 
 ###  荣誉奖励
 - 中国科学院院长特别奖，2017年
