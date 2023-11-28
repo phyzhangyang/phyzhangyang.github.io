@@ -45,6 +45,11 @@
 - [更多论著](https://inspirehep.net/authors/982178?ui-citation-summary=true).
 
 ### 近期报告
+* 2023.12.30 **Dilution of DM relic density caused by electroweak first-order phase transition**[2023年紫金山暗物质研讨会](https://indico.ihep.ac.cn/event/20822/)
+* 2023.10.26 **SMEFT & Global Fits at CEPC**, [The 2023 international workshop on the high energy Circular Electron Positron Collider](https://indico.ihep.ac.cn/event/19316/contributions/143411/)
+* 2023。6.26 **轻子对撞机上离壳粒子的寻找**，河南师范大学
+* 2023.6.7 **New vacuum stability limit from cosmological history**, 河南大学
+* 2023.5.26 **New vacuum stability limit from cosmological history**, 河南省科学院
 * 2022.8.11 **电弱相变中有效势的构造**, 中国科学院理论物理所
 * 2022.8.9 **How arbitrary are perturbative calculations of the electroweak phase transition?**, [中国物理学会高能物理分会第十一届全国会员代表大会暨学术年会](https://indico.ihep.ac.cn/event/16065/contributions/114821/)
 * 2021.11.27 **BSM prospect at CEPC**, [The 7th China LHC Physics Workshop](https://indico.ihep.ac.cn/event/14560/session/8/contribution/220)
@@ -71,8 +76,10 @@
 ### 担任课程
 - 2021年秋：大学物理实验A(64课时)，大学物理实验B(48课时)
 - 2022年春：规范场论(32课时)，规范场论II(国际生，32课时)
+- 2022年秋：医用物理学(64课时)
+- 2023年春：规范场论(32课时)
 
 ### 联系方式
 - zhangyangphy@zzu.edu.cn
-- 郑州大学物理学院A楼423室
+- 郑州大学物理学院A楼317室
 
