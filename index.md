@@ -24,23 +24,17 @@
 
 ### 近期论著
 (依照高能物理惯例，按姓氏排名)
-* **How arbitrary are perturbative calculations of the electroweak phase transition?**, Peter Athron, Csaba Balazs, Andrew Fowlie, Lachlan Morris, Graham White, Yang Zhang, e-Print:[2208.01319](https://arxiv.org/abs/2208.01319)
-* **Dilution of dark matter relic density in singlet extension models**, Yang Xiao, Jin Min Yang, Yang Zhang, e-Print:[2207.14519](https://arxiv.org/abs/2207.14519) 
-* **The Physics potential of the CEPC. Prepared for the US Snowmass Community Planning Exercise (Snowmass 2021)**, Huajie Cheng, Wen Han Chiu, Yaquan Fang, Yu Gao, Jiayin Gu, Gang Li, Tianjun Li, Zhijun Liang, Bo Liu, Jia Liu, Zhen Liu, Manqi Ruan, Jing Shu, Kechen Wang, Lian-Tao Wang, Ke-Pan Xie, Shuo Yang, Jiarong Yuan, Kaili Zhang, Mengchao Zhang, Yang Zhang, Xuai Zhuang, e-Print: [2205.08553](https://arxiv.org/abs/2205.08553)
-* **A joint explanation of W-mass and muon g-2 in 2HDM**, Xiao-Fang Han, Fei Wang, Lei Wang, Jin Min Yang, Yang Zhang, Chinese Physics C, e-Print: [2204.06505](https://arxiv.org/abs/2204.06505)
+
+* **Implications of Nano-Hertz Gravitational Waves on Electroweak Phase Transition in the Singlet Dark Matter Model**, Yang Xiao, Jin Min Yang, Yang Zhang, Science Bulletin, 2023, e-Print: [2307.01072](https://arxiv.org/abs/2307.01072) 
+* **EasyScan_HEP: a tool for connecting programs to scan the parameter space of physics models**, Liangliang Shang, Yang Zhang, Comput.Phys.Commun. (2024), e-Print: [2304.03636](https://arxiv.org/abs/2304.03636) 
+* **New vacuum stability limit from cosmological history**, Csaba Balazs, Yang Xiao*, Jin Min Yang, Yang Zhang, e-Print: [2301.09283](https://arxiv.org/abs/2301.09283) 
+* **Reconstructing masses for semi-invisibly decaying particles pair-produced at lepton colliders**, Jin Min Yang, Yang Zhang, Pengxuan Zhu, Rui Zhu, Phys.Rev.D 108 (2023) 7, 075015, e-Print: [2211.08132](https://arxiv.org/abs/2211.08132) 
+* **How arbitrary are perturbative calculations of the electroweak phase transition?**, Peter Athron, Csaba Balazs, Andrew Fowlie, Lachlan Morris, Graham White, Yang Zhang, JHEP 01 (2023) 050, e-Print:[2208.01319](https://arxiv.org/abs/2208.01319)
+* **Dilution of dark matter relic density in singlet extension models**, Yang Xiao, Jin Min Yang, Yang Zhang, JHEP 02 (2023) 008, e-Print:[2207.14519](https://arxiv.org/abs/2207.14519) 
 * **Low energy SUSY confronted with new measurements of W-boson mass and muon g-2**, Jin Min Yang, Yang Zhang, Science Bulletin, 2022, 67(14): 1430–1436, e-Print: [2204.04202](https://arxiv.org/abs/2204.04202)
-* **Two-Higgs-doublet models in light of current experiments: a brief review**, Lei Wang, Jin Min Yang, Yang Zhang, e-Print: [2203.07244](https://arxiv.org/abs/2203.07244)
 * **Global fits of SUSY at future Higgs factories**, Peter Athron, Csaba Balazs, Andrew Fowlie, Huifang Lv, Wei Su, Lei Wu, Jin Min Yang, Yang Zhang, Phys. Rev. D 105, 115029 (2022), e-Print: [2203.04828](https://arxiv.org/abs/2203.04828)
-* **Low Energy Supersymmetry Confronted with Current Experiments: An Overview**, Fei Wang, Wenyu Wang, Jinmin Yang, Yang Zhang, Bin Zhu, Universe 8 (2022) 3, 178, e-Print: [2201.00156](https://arxiv.org/abs/2201.00156)
-* **Gluino-SUGRA scenarios in light of FNAL muon g-2 anomaly**, Zhuang Li, Guo-Li Liu, Fei Wang, Jin Min Yang, Yang Zhang, JHEP 12 (2021) 219, e-Print:[2106.04466](https://arxiv.org/abs/2106.04466)
-* **Muon g−2 anomaly and mu-tau-philic Higgs doublet with a light CP-even component**, Hong-Xin Wang, Lei Wang, Yang Zhang, Eur.Phys.J.C 81 (2021) 11, 1007, e-Print:[2104.03242](https://arxiv.org/abs/2104.03242).
-* **Lepton-specific inert two-Higgs-doublet model confronted with the new results for muon and electron g-2 anomalies and multi-lepton searches at the LHC**, Xiao-Fang Han, Tianjun Li, Hong-Xin Wang, Lei Wang, Yang Zhang, Phys.Rev.D 104 (2021) 11, 115001, e-Print:[2104.03227](https://arxiv.org/abs/2104.03227).
 * **GUT-scale constrained SUSY in light of new muon g-2 measurement**, Fei Wang, Lei Wu, Yang Xiao, Jin Min Yang, Yang Zhang, Nucl.Phys.B 970 (2021) 115486, e-Print:[2104.03262](https://arxiv.org/abs/2104.03262).
-* **Dark matter, Z′, vector-like quark at the LHC and b→sμμ anomaly**, Wei Chao, Hongxin Wang, Lei Wang, Yang Zhang, Chin.Phys.C 45 (2021) 8, 083105, e-Print:[2102.07518](https://arxiv.org/abs/2102.07518)
 * **Simple and statistically sound strategies for analysing physical theories**, Rept.Prog.Phys. 85 (2022) 5, 052201, e-Print:[2012.09874](https://arxiv.org/abs/2012.09874)
-* **Dark matter, electroweak phase transition, and gravitational waves in the type II two-Higgs-doublet model with a singlet scalar field**, Xiao-Fang Han, Lei Wang, Yang Zhang, Phys.Rev.D 103 (2021) 3, 035012, e-Print:[2010.03730](https://arxiv.org/abs/2010.03730).
-* **Explaining The XENON1T Excess With Light Goldstini Dark Matter**, Junjie Cao, Xiaokang Du, Zhuang Li, Fei Wang, Yang Zhang, e-Print:[2007.09981](https://arxiv.org/abs/2007.09981).
-* **Global fits of axion-like particles to XENON1T and astrophysical data**, Peter Athron, Csaba Balázs, Ankit Beniwal, J. Eliel Camargo-Molina, Andrew Fowlie, Tomás E. Gonzalo, Sebastian Hoof, Felix Kahlhoefer, David J. E. Marsh, Markus Tobias Prim, Andre Scaffidi, Pat Scott, Wei Su, Martin White, Lei Wu, Yang Zhang, JHEP 05 (2021) 159, e-Print:[2007.05517](https://arxiv.org/abs/2007.05517).
 
 - [更多论著](https://inspirehep.net/authors/982178?ui-citation-summary=true).
 
