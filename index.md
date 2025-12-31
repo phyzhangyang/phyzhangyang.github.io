@@ -30,13 +30,15 @@
 * 2025.10.29~11.2 承办[11th China LHC Physics Conference (CLHCP2025)](https://indico.ihep.ac.cn/event/26351/)
 * 2025.10.19 **Dilution Effect on Freeze-in Dark Matter from a Phase Transition**, [2025年紫金山暗物质研讨会](https://indico.pmo.ac.cn/event/975/contributions/4091/)
 * 2025.9.27 **Enhancing Phase Transition Calculations with Action Curve Fitting**, [BPCS 2025](https://indico.itp.ac.cn/event/349/contributions/1928/)
-* 2025.7.16, **Light Sparticles at the LHC**, [第六届粒子物理前沿研讨会](https://indico.ihep.ac.cn/event/25704/contributions/195088/)
+* 2025.7.16 **Light Sparticles at the LHC**, [第六届粒子物理前沿研讨会](https://indico.ihep.ac.cn/event/25704/contributions/195088/)
 * 2025.6.29~7.5 主办[第三届新物理数值计算与模拟前沿讲习班](https://indico.itp.ac.cn/event/337/overview)
-* 2025.5.24, **Enhancing Phase Transition Calculations through Polynomial Fitting and Neural Network Approximation**,[30th LHC Mini-Workshop](https://indico.ihep.ac.cn/event/25130/contributions/190279/)
-* 2025.4.18, **Enhancing Phase Transition Calculations through Polynomial Fitting and Neural Network Approximation**, [GUTPC 2025](https://indico.ihep.ac.cn/event/23969/contributions/185850/)
-* 2025.1.12, **相变**, [2025新物理冬季学校](https://indico.itp.ac.cn/event/288/contributions/1592/)
+* 2025.5.24 **Enhancing Phase Transition Calculations through Polynomial Fitting and Neural Network Approximation**,[30th LHC Mini-Workshop](https://indico.ihep.ac.cn/event/25130/contributions/190279/)
+* 2025.4.18 **Enhancing Phase Transition Calculations through Polynomial Fitting and Neural Network Approximation**, [GUTPC 2025](https://indico.ihep.ac.cn/event/23969/contributions/185850/)
+* 2025.1.12 **相变**, [2025新物理冬季学校](https://indico.itp.ac.cn/event/288/contributions/1592/)
 * 2024.12.20 **PhaseTracer2: from the effective potential to gravitational waves**, [Higgs Potential 2024研讨会](https://indico.pnp.ustc.edu.cn/event/2009/contributions/19283/)
-* 2024.11.01 **PhaseTracer2**, [第三届高能物理理论与实验融合发展研讨会]
+* 2024.11.01 **PhaseTracer2**, 第三届高能物理理论与实验融合发展研讨会
+* 2024.5.17—5.21 主办[第二届新物理数值计算与模拟前沿讲习班]
+* 2024.1.20 **PhaseTracer 2:从有效势到相变性质**, [第27届LHC Mini-Workshop](https://indico.ihep.ac.cn/event/21126/contributions/147350/)
 * 2023.12.30 **Dilution of DM relic density caused by electroweak first-order phase transition**, [2023年紫金山暗物质研讨会](https://indico.ihep.ac.cn/event/20822/)
 * 2023.10.26 **SMEFT & Global Fits at CEPC**, [The 2023 international workshop on the high energy Circular Electron Positron Collider](https://indico.ihep.ac.cn/event/19316/contributions/143411/)
 * 2023.06.26 **轻子对撞机上离壳粒子的寻找**, 河南师范大学
