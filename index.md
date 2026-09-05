@@ -22,6 +22,8 @@
 - [PhaseTracer](https://github.com/PhaseTracer/PhaseTracer)
 - [GAMBIT](https://github.com/GambitBSM)
 - [EasyScan_HEP](https://github.com/phyzhangyang/EasyScan_HEP)
+- [PTagent](https://github.com/PhenoPack/PTagent)
+- [EasyScan_HEP Agent Skill](https://github.com/Contract-Mediated-Agent/easyscan-skill)
 
 ### 科研项目
 - 国家自然科学基金青年科学基金项目，12105248，新物理模型中电弱相变的精确计算与相关唯象学研究，2022年1月---2024年12月，30万，主持
@@ -77,4 +79,4 @@
 
 ### 公共服务
 - GAMBIT合作组中ColliderBit组召集人，2020年2月---2021年11月
-- PRL、JHEP、PRD、CPC审稿人
+- PRL、JHEP、PRD、CPC、EPJC、JCAP审稿人
