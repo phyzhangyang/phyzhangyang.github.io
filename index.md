@@ -40,7 +40,7 @@ title: 张阳 / Yang Zhang
 ### 近期论著
 - [See InspireHEP](https://inspirehep.net/authors/982178?ui-citation-summary=true).
 
-### 近期报告
+### 学术报告
 #### 2026
 * 2026.7.16 **Artificial Intelligence in New Physics Electroweak Phase Transition Studies**, [DEEP-IN Seminar](https://ithems.riken.jp/en/events/artificial-intelligence-in-new-physics-electroweak-phase-transition-studies)
 * 2026.7.6~7.13 组织[第四届新物理数值计算与模拟前沿讲习班](https://indico.itp.ac.cn/event/428/)
