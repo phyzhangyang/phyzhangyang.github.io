@@ -1,18 +1,3 @@
----
-layout: default
-title: 张阳 / Yang Zhang
----
-
-<section class="profile-hero">
-  <p class="profile-kicker">Theoretical Particle Physics</p>
-  <h1>张阳 / Yang Zhang</h1>
-  <p class="profile-intro">研究方向包括超出标准模型新物理、对撞机唯象学、希格斯物理、电弱相变和暗物质。</p>
-  <div class="profile-actions">
-    <a href="https://inspirehep.net/authors/982178?ui-citation-summary=true">InspireHEP</a>
-    <a href="https://github.com/phyzhangyang">GitHub</a>
-  </div>
-</section>
-
 ### 研究方向
 <p class="research-tags">
   <span>理论物理</span>
