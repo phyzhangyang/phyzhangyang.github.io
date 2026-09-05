@@ -41,10 +41,13 @@ title: 张阳 / Yang Zhang
 - [See InspireHEP](https://inspirehep.net/authors/982178?ui-citation-summary=true).
 
 ### 近期报告
+#### 2026
 * 2026.7.16 **Artificial Intelligence in New Physics Electroweak Phase Transition Studies**, [DEEP-IN Seminar](https://ithems.riken.jp/en/events/artificial-intelligence-in-new-physics-electroweak-phase-transition-studies)
+* 2026.7.6~7.13 组织[第四届新物理数值计算与模拟前沿讲习班](https://indico.itp.ac.cn/event/428/)
 * 2026.7.1 **AI在新物理电弱相变研究中的应用**，人工智能赋能物理学科研与教育研讨会
 * 2026.4.17 **Impact of Cosmological Phase Transitions on FIMP Dark Matter**, [TOPAC 2026](https://indico-tdli.sjtu.edu.cn/event/4560/contributions/19730/)
-* 2026.7.6~7.13 组织[第四届新物理数值计算与模拟前沿讲习班](https://indico.itp.ac.cn/event/428/)
+
+#### 2025
 * 2025.10.29~11.2 承办[11th China LHC Physics Conference (CLHCP2025)](https://indico.ihep.ac.cn/event/26351/)
 * 2025.10.19 **Dilution Effect on Freeze-in Dark Matter from a Phase Transition**, [2025年紫金山暗物质研讨会](https://indico.pmo.ac.cn/event/975/contributions/4091/)
 * 2025.9.27 **Enhancing Phase Transition Calculations with Action Curve Fitting**, [BPCS 2025](https://indico.itp.ac.cn/event/349/contributions/1928/)
@@ -54,17 +57,24 @@ title: 张阳 / Yang Zhang
 * 2025.4.18 **Enhancing Phase Transition Calculations through Polynomial Fitting and Neural Network Approximation**, [GUTPC 2025](https://indico.ihep.ac.cn/event/23969/contributions/185850/)
 * 2025.1.12 **相变**, [2025新物理冬季学校](https://indico.itp.ac.cn/event/288/overview)
 
+#### 2024
 * 2024.12.20 **PhaseTracer2: from the effective potential to gravitational waves**, [Higgs Potential 2024研讨会](https://indico.pnp.ustc.edu.cn/event/2009/contributions/19283/)
 * 2024.11.01 **PhaseTracer2**, 第三届高能物理理论与实验融合发展研讨会
 * 2024.5.17~5.21 主办第二届新物理数值计算与模拟前沿讲习班
 * 2024.1.20 **PhaseTracer 2:从有效势到相变性质**, [第27届LHC Mini-Workshop](https://indico.ihep.ac.cn/event/21126/contributions/147350/)
+
+#### 2023
 * 2023.12.30 **Dilution of DM relic density caused by electroweak first-order phase transition**, [2023年紫金山暗物质研讨会](https://indico.ihep.ac.cn/event/20822/)
 * 2023.10.26 **SMEFT & Global Fits at CEPC**, [The 2023 international workshop on the high energy Circular Electron Positron Collider](https://indico.ihep.ac.cn/event/19316/contributions/143411/)
 * 2023.06.26 **轻子对撞机上离壳粒子的寻找**, 河南师范大学
 * 2023.06.07 **New vacuum stability limit from cosmological history**, 河南大学
 * 2023.05.26 **New vacuum stability limit from cosmological history**, 河南省科学院
+
+#### 2022
 * 2022.08.11 **电弱相变中有效势的构造**, 中国科学院理论物理所
 * 2022.08.09 **How arbitrary are perturbative calculations of the electroweak phase transition?**, [中国物理学会高能物理分会第十一届全国会员代表大会暨学术年会](https://indico.ihep.ac.cn/event/16065/contributions/114821/)
+
+#### 2021
 * 2021.11.27 **BSM prospect at CEPC**, [The 7th China LHC Physics Workshop](https://indico.ihep.ac.cn/event/14560/session/8/contribution/220)
 * 2021.11.10 **SUSY global fits with future colliders using GAMBIT**, [The 2021 international workshop on the high energy Circular Electron-Positron Collider ](https://indico.ihep.ac.cn/event/14938/other-view?view=standard).
 * 2021.08.24 **SUSY global fits with future colliders using GAMBIT**, [The XXVIII International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2021)](https://indico.cern.ch/event/875077/).
