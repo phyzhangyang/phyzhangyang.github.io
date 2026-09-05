@@ -1,3 +1,8 @@
+---
+layout: default
+title: 张阳 / Yang Zhang
+---
+
 ### 研究方向
 <p class="research-tags">
   <span>理论物理</span>
